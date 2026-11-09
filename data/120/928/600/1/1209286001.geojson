@@ -104,7 +104,7 @@
         "wk:page":"Al-Hirah"
     },
     "wof:country":"IQ",
-    "wof:geomhash":"4f4692330ed3c3c72817f3f41f4da0ec",
+    "wof:geomhash":"923031d0e8123a6235ad62d0b2e0ef0c",
     "wof:hierarchy":[
         {
             "country_id":85632191,
@@ -127,5 +127,5 @@
     44.48674000000001,
     31.88993
 ],
-  "geometry": {"coordinates":[44.48674000000001,31.88993],"type":"Point"}
+  "geometry": {"coordinates":[44.48674,31.88993],"type":"Point"}
 }

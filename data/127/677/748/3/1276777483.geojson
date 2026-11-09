@@ -79,7 +79,7 @@
         "wk:page":"Husaybah"
     },
     "wof:country":"IQ",
-    "wof:geomhash":"48b19169aa049661a63b88c3d9dbea7b",
+    "wof:geomhash":"7256584b34b23f29709dbb0798b1a32b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,5 +105,5 @@
     40.98945,
     34.39250999999999
 ],
-  "geometry": {"coordinates":[40.98945,34.39250999999999],"type":"Point"}
+  "geometry": {"coordinates":[40.98945,34.39251],"type":"Point"}
 }

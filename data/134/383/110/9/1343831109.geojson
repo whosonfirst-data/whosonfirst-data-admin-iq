@@ -71,7 +71,7 @@
         "wk:page":"Baqofah"
     },
     "wof:country":"IQ",
-    "wof:geomhash":"8581550a41952794e57aa20736282b35",
+    "wof:geomhash":"6639711a398f1a04468b2fc66caa2738",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     43.13079000000001,
     36.58862
 ],
-  "geometry": {"coordinates":[43.13079000000001,36.58862],"type":"Point"}
+  "geometry": {"coordinates":[43.13079,36.58862],"type":"Point"}
 }

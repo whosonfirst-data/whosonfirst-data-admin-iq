@@ -60,7 +60,7 @@
         "wk:page":"Yusufiyah"
     },
     "wof:country":"IQ",
-    "wof:geomhash":"04b554c9569bfedb05d7d3140deffbfc",
+    "wof:geomhash":"846c89b0cfdee4f2ebb2ac5c600eea6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     44.25689000000001,
     33.08393
 ],
-  "geometry": {"coordinates":[44.25689000000001,33.08393],"type":"Point"}
+  "geometry": {"coordinates":[44.25689,33.08393],"type":"Point"}
 }

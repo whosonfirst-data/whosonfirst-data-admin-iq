@@ -48,7 +48,7 @@
         "gn:id":6818053
     },
     "wof:country":"IQ",
-    "wof:geomhash":"f22c22c22cbdecee704537ea64395718",
+    "wof:geomhash":"7bacda43bb7c89b812683ad36355b29d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     44.3128,
     32.64485999999999
 ],
-  "geometry": {"coordinates":[44.3128,32.64485999999999],"type":"Point"}
+  "geometry": {"coordinates":[44.3128,32.64486],"type":"Point"}
 }
